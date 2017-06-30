@@ -1,6 +1,5 @@
 #########################
 # polynomial.py
-# part of homework 1 problem 1
 # Jonathan Munro
 #########################
 '''The module contains the Polynomial class. This takes a list of coefficients and creates a Polynomial object.'''
