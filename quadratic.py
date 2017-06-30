@@ -1,6 +1,5 @@
 ################################
 # quadratic.py
-# Part of homework 1, part 2
 # Jonathan Munro
 ################################
 '''Creates a Quadratic class from three numbers, the coefficients of the quadratic'''
